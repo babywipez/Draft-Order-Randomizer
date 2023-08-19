@@ -1,5 +1,5 @@
 # Draft-Order-Randomizer
-A basic Python program that will randomize a 12 team Fantasy Football draft order
+A basic Python program that will randomize Fantasy Football draft order given any list size.
 
 The randomizer dynamically uses the length of the given list of league members
 to generate a new randomized order. Just replace the names in the program with
